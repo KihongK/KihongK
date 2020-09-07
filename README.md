@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 </div>
 
 ### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
+- R
+- Python
+- tensorflow
 
 
 
