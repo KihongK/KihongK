@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요? 👋 
 
 <!--
 **Ki-Hong-Kim/Ki-Hong-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,11 +21,17 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align = center>
+  - 🌱 컴퓨터 비전과 데이터 분석을 공부중입니다!!
+</div>
+
 ### Interest
 - R
 - Python
 - tensorflow
+- Image Detection
 
+https://coursera.org/share/60bca69e817b1b4195dbb8ee2fdc494b
 
 
 <div align=center>
