@@ -1,5 +1,5 @@
 ### 안녕하세요? 👋 
-
+    
 <!--
 **Ki-Hong-Kim/Ki-Hong-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align = center>
-  - 🌱 컴퓨터 비전과 데이터 분석을 공부중입니다!!
+  - 🌱 컴퓨터 비전과 데이터 분석을 공부중입니다!!  </br>
+  아직 다른 사람들의 repo를 보고 참고하고 있습니다. 저도 분들께 좋은 정보를 공유할 수 있도록 노력하겠습니다!! 
 </div>
 
 ### Interest
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 - [**Coursera**: Neural Networks and Deep Learning](https://coursera.org/share/43a51a543caa1f164ffa15a4cbed2fd4)
 - [**Coursera**: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://coursera.org/share/60bca69e817b1b4195dbb8ee2fdc494b)
 - [**Coursera**: Structuring Machine Learning Projects](https://coursera.org/share/28bb00beced96d133aeb048dd5513b12)
-
+- Adsp 
 
 <div align=center>
 
