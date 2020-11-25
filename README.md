@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align = center>
+
   - 🌱 컴퓨터 비전과 데이터 분석을 공부중입니다!!  </br>
   아직 다른 사람들의 repo를 보고 참고하고 있습니다. 저도 분들께 좋은 정보를 공유할 수 있도록 노력하겠습니다!! 
-</div>
+
 
 ### Interest
 - R
