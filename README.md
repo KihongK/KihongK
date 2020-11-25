@@ -31,7 +31,10 @@ Here are some ideas to get you started:
 - tensorflow
 - Image Detection
 
-https://coursera.org/share/60bca69e817b1b4195dbb8ee2fdc494b
+### Certificate
+- [**Coursera**: Neural Networks and Deep Learning](https://coursera.org/share/43a51a543caa1f164ffa15a4cbed2fd4)
+- [**Coursera**: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://coursera.org/share/60bca69e817b1b4195dbb8ee2fdc494b)
+- [**Coursera**: Structuring Machine Learning Projects](https://coursera.org/share/28bb00beced96d133aeb048dd5513b12)
 
 
 <div align=center>
