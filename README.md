@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - Image Detection
 
 ### Certificate
-- [**Coursera**: Neural Networks and Deep Learning](https://coursera.org/share/43a51a543caa1f164ffa15a4cbed2fd4)
+- [**Coursera**: Deep Learning](https://coursera.org/share/121bf86a80b1899b52b6863c561afa18)
 - Adsp 
 - Sqld
 
