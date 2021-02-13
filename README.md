@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 ### Certificate
 - [**Coursera**: Deep Learning](https://coursera.org/share/121bf86a80b1899b52b6863c561afa18)
+- [TensorFlow Developer Certificate](https://www.credential.net/d1b66e99-f22f-4828-9cc4-788fc05bfc9b#gs.suu6ns)
 - Adsp 
 - Sqld
 
