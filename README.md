@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - [TensorFlow Developer Certificate](https://www.credential.net/d1b66e99-f22f-4828-9cc4-788fc05bfc9b#gs.suu6ns)
 - Adsp 
 - Sqld
+- 빅데이터분석기사
 
 <div align=center>
 
