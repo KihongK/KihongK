@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - R
 - Python
 - tensorflow
-- Image Detection
+- computer vision
 
 ### Certificate
 - [**Coursera**: Deep Learning](https://coursera.org/share/121bf86a80b1899b52b6863c561afa18)
