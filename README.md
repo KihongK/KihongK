@@ -15,15 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKi-Hong-Kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-
-</div>
-
-
-<!-- - 🌱 컴퓨터 비전과 데이터 분석을 공부중입니다!!  </br>
-  아직 다른 사람들의 repo를 보고 참고하고 있습니다. 저도 좋은 정보와 결과물을 공유할 수 있도록 노력하겠습니다!!  -->
+<!-- - 🌱 AI 를 활용한 서비스 개발을 주로 하고 있습니다.  </br>
+  좋은 정보와 결과물을 공유할 수 있도록 노력하겠습니다!!  -->
   
 
 
